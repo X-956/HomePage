@@ -15,6 +15,8 @@ Light mode
 ## Statement
 This project was inspired by following projects:
 
+- [XXY homepage](https://github.com/xxynet/homepage) (forked from)
+
 - [ZYYO homepage](https://github.com/ZYYO666/homepage) (revised from)
 
 - [Xhofe](https://nn.ci/) (reference)
@@ -47,3 +49,4 @@ Open [Vercel](https://vercel.com/) to deploy from the repo you've just forked
 
 
 Open [Netlify](https://www.netlify.com/) to deploy from the repo you've just forked
+
